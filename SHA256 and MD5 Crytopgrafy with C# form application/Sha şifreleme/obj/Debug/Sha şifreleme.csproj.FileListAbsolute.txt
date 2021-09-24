@@ -1,0 +1,10 @@
+C:\Users\emree\Desktop\Github\Sha şifreleme\Sha şifreleme\bin\Debug\Sha şifreleme.exe.config
+C:\Users\emree\Desktop\Github\Sha şifreleme\Sha şifreleme\bin\Debug\Sha şifreleme.exe
+C:\Users\emree\Desktop\Github\Sha şifreleme\Sha şifreleme\bin\Debug\Sha şifreleme.pdb
+C:\Users\emree\Desktop\Github\Sha şifreleme\Sha şifreleme\obj\Debug\Sha_şifreleme.Form1.resources
+C:\Users\emree\Desktop\Github\Sha şifreleme\Sha şifreleme\obj\Debug\Sha_şifreleme.Properties.Resources.resources
+C:\Users\emree\Desktop\Github\Sha şifreleme\Sha şifreleme\obj\Debug\Sha şifreleme.csproj.GenerateResource.cache
+C:\Users\emree\Desktop\Github\Sha şifreleme\Sha şifreleme\obj\Debug\Sha şifreleme.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\Github\Sha şifreleme\Sha şifreleme\obj\Debug\Sha şifreleme.exe
+C:\Users\emree\Desktop\Github\Sha şifreleme\Sha şifreleme\obj\Debug\Sha şifreleme.pdb
+C:\Users\emree\Desktop\Github\Sha şifreleme\Sha şifreleme\obj\Debug\Sha şifreleme.csproj.AssemblyReference.cache
